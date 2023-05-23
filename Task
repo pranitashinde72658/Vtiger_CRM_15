@@ -13,7 +13,7 @@ public class CheckEvenOrOddNumber {
 		if(num%2==0) {
 			System.out.println("given number "+ num+ " is even");	
 		}else {
-			System.out.println("given number "+ num+ " is odd");	
+			System.out.println("given number "+ num+ " is  odd");	
 		}
 
 	}
