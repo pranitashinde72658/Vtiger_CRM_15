@@ -2,6 +2,8 @@ package com.javaIndis;
 
 import java.util.Scanner;
 
+
+hii  how r u
 public class CheckEvenOrOddNumber {
 
 	public static void main(String[] args) {
